@@ -1,0 +1,70 @@
+body{
+    overflow-x: hidden;
+}
+.nav-item a{
+    color:ghostwhite;
+    font-weight: bolder;
+    
+}
+nav{
+    background-color: #e75874;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+#checking{
+    background-color: #316879;
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+#form{
+    margin-top: 10%;
+    box-shadow: 5px 5px 10px rgba(255, 254, 254, 0.3);
+}
+.ticket{
+    margin: auto;
+    margin-top: 2%;
+    padding:10px;
+    margin-bottom: 10px;
+    width: 60%;
+    box-shadow:5px 5px 10px rgba(255, 18, 18, 0.3) ;
+}
+.item{
+    margin-top:5%;
+    padding:5px;
+}
+.item h6{
+    color:#c66b3d;
+}
+.item p{
+    text-align: center;
+    color:#4d5198;
+}
+.x{
+    color:#4d5198;
+    font-weight: bolder;
+}
+.y{
+    color:black;
+    font-weight: bolder;
+}
+#footer{
+    background-color: #f57e7e;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+#footer h3{
+    color:#500472;
+}
+#footer ul{
+    margin-bottom: 50px;
+}
+#footer ul li{
+    color:rgb(255, 209, 218);
+
+}
